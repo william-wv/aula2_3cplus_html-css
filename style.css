@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
+:root {
+  --back-ground: #573824;
+  --txt-color-primary: #291B1A;
+  --txt-color-secondary: #573A37;
+  --text-color-on-bg: #F0E8C2;
+  --back-ground-color-2: #F0E8C2
+} 
+
+p,a,b,li,h1,h2{
+  font-family: "Alice", serif, regular;
+}
+
+h1{
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+}
+p {
+  font-size: 16px;
+}
+
